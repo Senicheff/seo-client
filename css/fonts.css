@@ -1,0 +1,18 @@
+/* font-family: "Co Headline Corp"; */
+@font-face {
+    font-family: 'Co Headline Corp';
+    src: url('../fonts/CoHeadlineCorp/CoHeadlineCorp-Regular.eot');
+    src: url('../fonts/CoHeadlineCorp/CoHeadlineCorp-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/CoHeadlineCorp/CoHeadlineCorp-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+/* font-family: "Bebas Neue Cyrillic"; */
+@font-face {
+    font-family: 'Bebas Neue Cyrillic';
+    src: url('../fonts/BebasNeueCyrillic/BebasNeueCyrillic.eot');
+    src: url('../fonts/BebasNeueCyrillic/BebasNeueCyrillic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/BebasNeueCyrillic/BebasNeueCyrillic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
